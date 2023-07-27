@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    /* default module system and resolution */
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    /* typical config */
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "dist",
+  }
+}
