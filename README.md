@@ -10,6 +10,8 @@ This was tested with Node 16, but should work with any version starting at v12.7
 
 This was also tested with `"type": "module"` and it works correctly.
 
+This has been tested with TypeScript 4+. Note that `Node16` is only available in Typescript 4.7+, so one of the tests will fail in previous versions.
+
 ## Running the example
 
 This example has its `node_modules` committed, so all you need to run it is cloning the repository and run `bash test.sh`.
